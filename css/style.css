@@ -16,6 +16,26 @@ body {
     color: black;
 }
 
+.nav-linkm{
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    /*background-color: #43b3e5;*/
+    line-height: 2.5;
+    padding: 0 1.0em;
+    text-decoration: none;
+}
+
+/*
+.azul{
+    background-color: #0077d0;
+}*/
+
+.azul:hover{
+    color: white;
+    background-color: #43b3e5;
+}
+
 .img-fluid{
     width: 200px;
     height: 200px;
@@ -32,7 +52,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    font-size: 22px;
+    font-size: 21px;
     color: #43b3e5;
 }
 
