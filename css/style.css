@@ -224,7 +224,8 @@ background-color: #2c9af8;
     align-items: center;      
     background-color: #43b3e5; 
     width: 130px;             
-    height: 115px;            
+    height: 115px;
+    margin: 22px;            
     
 }
 
@@ -234,7 +235,8 @@ background-color: #2c9af8;
     align-items: center;      
     background-color: #43b3e5; 
     width: 130px;             
-    height: 115px;            
+    height: 115px;
+    margin: 22px;            
     
 }
 
@@ -245,6 +247,7 @@ background-color: #2c9af8;
     background-color: #43b3e5; 
     width: 130px;             
     height: 115px; 
+    margin: 22px;
 }
 
 .bi-calendar3 {
